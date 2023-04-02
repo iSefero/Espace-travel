@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Espace-travel/static/css/main.fd133327.css",
-    "main.js": "/Espace-travel/static/js/main.8fa09473.js",
+    "main.js": "/Espace-travel/static/js/main.cf726860.js",
     "static/media/4.png": "/Espace-travel/static/media/4.dbbeb2ec0f205490a8f4.png",
     "static/media/3.png": "/Espace-travel/static/media/3.53dba684cfc61bf74883.png",
     "static/media/6.png": "/Espace-travel/static/media/6.5ea6136d4abd6840211e.png",
@@ -10,10 +10,10 @@
     "static/media/5.png": "/Espace-travel/static/media/5.a7bd46bf3ae787280c29.png",
     "index.html": "/Espace-travel/index.html",
     "main.fd133327.css.map": "/Espace-travel/static/css/main.fd133327.css.map",
-    "main.8fa09473.js.map": "/Espace-travel/static/js/main.8fa09473.js.map"
+    "main.cf726860.js.map": "/Espace-travel/static/js/main.cf726860.js.map"
   },
   "entrypoints": [
     "static/css/main.fd133327.css",
-    "static/js/main.8fa09473.js"
+    "static/js/main.cf726860.js"
   ]
 }
