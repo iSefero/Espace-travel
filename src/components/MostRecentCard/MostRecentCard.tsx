@@ -20,6 +20,8 @@ export const MostRecentCard: FC<IProps> = ({arrayOfItems}) => {
       setScreenWidth(window.innerWidth);
     };
 
+    setScreenWidth(window.innerWidth);
+
     window.addEventListener("resize", handleResize);
 
     return () => {
